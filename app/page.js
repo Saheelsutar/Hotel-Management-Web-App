@@ -78,7 +78,7 @@ export default function Login() {
         </div>
       </div>
     </div>
-    <GoogleAnalytics gaId="G-9HG1ZSHDTQ" />
+    <GoogleAnalytics gaId="your google analytics ID" />
     </>
   );
 }
